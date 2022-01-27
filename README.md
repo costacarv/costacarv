@@ -6,8 +6,7 @@
 <div align="center">
   <a href="https://github.com/costacarv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=costacarv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costacarv&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  </div>
 <div style="display: inline_block"><br>
   <h3> Back-end </h3>
   <img align="center" alt="MatheusCarvalho-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
