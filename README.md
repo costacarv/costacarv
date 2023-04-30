@@ -1,7 +1,7 @@
 ### OI 👋 Sou o Matheus Carvalho!
 
 - 🔭 Trabalho com Tecnologias Frontend no momento.
-- 🌱 Estudando Java, PHP, MySQ...entre outras tecnologias Backend
+- 🌱 Estudando Tecnologias Backend: TypeScript, React, NodeJs, Banco de Dados.
 - 📫 Como me contactar:  matheuscarvalhomcc0@gmail.com / https://www.linkedin.com/in/matheus-carvalho-developer-6b541b124/
 <div align="center">
   <a href="https://github.com/costacarv">
